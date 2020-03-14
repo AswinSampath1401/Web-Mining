@@ -1,3 +1,2 @@
 # Web Mining Lab Practice
-This is web mining lab practice
- 
+This is web mining lab practice.
